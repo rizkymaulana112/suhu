@@ -1,0 +1,30 @@
+body {
+    background-color: #FBF5DE;
+    font-family: 'Super Mario 256', sans-serif;
+    padding: 20px;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #DC3C22;
+    margin-bottom: 30px;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-left: 10px;
+}
+
+.ikon-suhu {
+    width: 50px; /* Atur ukuran gambar di sini */
+    height: auto;
+}
+
+.data {
+    color: #DC3C22;
+    text-align: left;
+    font-size: 20px;
+}
